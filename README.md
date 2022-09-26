@@ -12,6 +12,6 @@ Topic Covered:
 
 ### Code
 - [Bank Input/Output](https://github.com/linkusers/latihan_pemdas/blob/777ce6d44ec1a0e9bc1a3ed2ca7a63ce12a9b8fd/code%20&%20program/bankIO.java) code by [M Anhar Tamim](https://github.com/anhartmm)
-- [ATM Menu If Else](https://github.com/linkusers/latihan_pemdas/blob/777ce6d44ec1a0e9bc1a3ed2ca7a63ce12a9b8fd/code%20&%20program/bankATM.java) (code by Ahmad Rafli)
+- [ATM Menu If Else](https://github.com/linkusers/latihan_pemdas/blob/777ce6d44ec1a0e9bc1a3ed2ca7a63ce12a9b8fd/code%20&%20program/bankATM.java) code by Ahmad Rafli
 - [If Else Calculator](https://github.com/linkusers/latihan_pemdas/blob/777ce6d44ec1a0e9bc1a3ed2ca7a63ce12a9b8fd/code%20&%20program/calculatorIfElse.java) code by [Rahmat Budianoor](https://github.com/itsmerahmat)
 
