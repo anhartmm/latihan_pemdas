@@ -5,8 +5,8 @@ Feel free to contribute and fix this repository 🙂
 
 Topic Covered:
 
-- [Input Output](#android--ios)
-- [IF ELSE](#cloud-security)
+- [Input Output](https://www.geeksforgeeks.org/java-io-input-output-in-java-with-examples/)
+- [IF ELSE](https://www.geeksforgeeks.org/java-if-else-statement-with-examples/)
 
 ----------
 
