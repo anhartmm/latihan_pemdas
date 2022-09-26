@@ -1,7 +1,7 @@
 # Latihan Pemdas
 Kumpulan kode-kode dan program latihan mata kuliah pemrograman dasar.
 
-Feel free to contribute and fix this repository 🙂 (nilai UTS anda auto naik)
+Feel free to contribute and fix this repository 🙂 (_nilai UTS anda auto naik_).
 
 Topic Covered:
 
